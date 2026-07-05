@@ -1,0 +1,6 @@
+{
+  "name": "Aura Premium E-Commerce",
+  "description": "A premium, minimalist e-commerce platform inspired by Apple and Nike, featuring an AI shopping assistant, smart product recommendations, real-time analytics, and a full-featured admin management suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
